@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "name": "Question - 1",
+      "cards": [
+        {
+          "name": "行",
+          "answer": "いく",
+          "questions": ["くる", "いく", "かえる"]
+        },
+        {
+          "name": "来",
+          "answer": "くる",
+          "questions": ["くる", "いく", "かえる"]
+        },
+        {
+          "name": "食",
+          "answer": "たべる",
+          "questions": ["ねむ", "よむ", "たべる"]
+        },
+        {
+          "name": "帰",
+          "answer": "かえる",
+          "questions": ["いく", "かえる", "する"]
+        },
+        {
+          "name": "飲",
+          "answer": "のむ",
+          "questions": ["のむ", "よむ", "たべる"]
+        }
+      ]
+    },
+    {
+      "name": "Question - 2",
+      "cards": [
+        {
+          "name": "読",
+          "answer": "よむ",
+          "questions": ["のむ", "ねむ", "よむ"]
+        },
+        {
+          "name": "見",
+          "answer": "みる",
+          "questions": ["ねむ", "みる", "かえる"]
+        },
+        {
+          "name": "出",
+          "answer": "でる",
+          "questions": ["くる", "でる", "たべる"]
+        },
+        {
+          "name": "買",
+          "answer": "かう",
+          "questions": ["いう", "ねむ", "かう"]
+        },
+        {
+          "name": "聞",
+          "answer": "きく",
+          "questions": ["きく", "あく", "いく"]
+        }
+      ]
+    }
+  ]
+}
