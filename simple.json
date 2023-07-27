@@ -216,6 +216,68 @@
           "questions": ["ひだり", "よこ", "した"]
         }
       ]
+    },
+     {
+      "id":8,
+      "name": "Question - 8",
+      "cards": [
+        {
+          "name": "言",
+          "answer": "いう",
+          "questions": ["いう", "よむ", "きく"]
+        },
+        {
+          "name": "男",
+          "answer": "おとこ",
+          "questions": ["くるま", "たかい", "おとこ"]
+        },
+        {
+          "name": "十",
+          "answer": "とお",
+          "questions": ["はやい", "うえ", "とお"]
+        },
+        {
+          "name": "車",
+          "answer": "くるま",
+          "questions": ["まえ", "くるま", "た"]
+        },
+        {
+          "name": "百",
+          "answer": "ひゃく",
+          "questions": ["ひゃく", "はやい", "しろい"]
+        }
+      ]
+    },
+         {
+      "id":9,
+      "name": "Question -9",
+      "cards": [
+        {
+          "name": "雨",
+          "answer": "あめ",
+          "questions": ["くるま", "あめ", "たかい"]
+        },
+        {
+          "name": "何",
+          "answer": "なに",
+          "questions": ["よい", "でん", "なに"]
+        },
+        {
+          "name": "子",
+          "answer": "こ",
+          "questions": ["こ", "がっ", "とお"]
+        },
+        {
+          "name": "雷",
+          "answer": "でん",
+          "questions": ["あめ", "でん", "た"]
+        },
+        {
+          "name": "女",
+          "answer": "おんな",
+          "questions": ["はは", "おんな", "おとこ"]
+        }
+      ]
     }
   ]
 }
