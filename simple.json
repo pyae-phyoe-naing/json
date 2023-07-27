@@ -108,19 +108,50 @@
           "questions": ["て", "め", "た"]
         },
         {
-          "name": "中",
-          "answer": "なか",
-          "questions": ["そと", "やま", "なか"]
+          "name": "花",
+          "answer": "はな",
+          "questions": ["はな", "やま", "くに"]
         },
         {
-          "name": "川",
-          "answer": "かわ",
-          "questions": ["かわ", "なか", "そと"]
+          "name": "耳",
+          "answer": "みみ",
+          "questions": ["あし", "なか", "みみ"]
         },
         {
           "name": "手",
           "answer": "て",
           "questions": ["て", "はな", "め"]
+        }
+      ]
+    },
+         {
+      "id":5,
+      "name": "Question - 5",
+      "cards": [
+        {
+          "name": "白",
+          "answer": "しろい",
+          "questions": ["しろい", "くち", "め"]
+        },
+        {
+          "name": "足",
+          "answer": "あし",
+          "questions": ["て", "あし", "くち"]
+        },
+        {
+          "name": "右",
+          "answer": "みぎ",
+          "questions": ["ひだり", "みぎ", "くに"]
+        },
+        {
+          "name": "力",
+          "answer": "ちから",
+          "questions": ["ちかい", "かみ", "ちから"]
+        },
+        {
+          "name": "口",
+          "answer": "くち",
+          "questions": ["くち", "くび", "みみ"]
         }
       ]
     }
