@@ -92,6 +92,37 @@
           "questions": ["て", "そと", "まえ"]
         }
       ]
+    },
+     {
+      "id":4,
+      "name": "Question - 4",
+      "cards": [
+        {
+          "name": "火",
+          "answer": "ひ",
+          "questions": ["やま", "ひ", "た"]
+        },
+        {
+          "name": "目",
+          "answer": "め",
+          "questions": ["て", "め", "た"]
+        },
+        {
+          "name": "中",
+          "answer": "なか",
+          "questions": ["そと", "やま", "なか"]
+        },
+        {
+          "name": "川",
+          "answer": "かわ",
+          "questions": ["かわ", "なか", "そと"]
+        },
+        {
+          "name": "手",
+          "answer": "て",
+          "questions": ["て", "はな", "め"]
+        }
+      ]
     }
   ]
 }
