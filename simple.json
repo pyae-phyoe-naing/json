@@ -61,6 +61,37 @@
           "questions": ["きく", "あく", "いく"]
         }
       ]
+    },
+    {
+      "id":3,
+      "name": "Question - 3",
+      "cards": [
+        {
+          "name": "山",
+          "answer": "やま",
+          "questions": ["やま", "かわ", "ひ"]
+        },
+        {
+          "name": "田",
+          "answer": "た",
+          "questions": ["かわ", "なか", "た"]
+        },
+        {
+          "name": "中",
+          "answer": "なか",
+          "questions": ["そと", "やま", "なか"]
+        },
+        {
+          "name": "川",
+          "answer": "かわ",
+          "questions": ["かわ", "なか", "そと"]
+        },
+        {
+          "name": "外",
+          "answer": "そと",
+          "questions": ["て", "そと", "まえ"]
+        }
+      ]
     }
   ]
 }
