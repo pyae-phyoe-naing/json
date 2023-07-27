@@ -38,7 +38,7 @@
         {
           "name": "読",
           "answer": "よむ",
-          "questions": ["のむ", "ねむ", "よむ"]
+          "questions": ["はなす", "ご", "よむ"]
         },
         {
           "name": "見",
@@ -276,6 +276,161 @@
           "name": "女",
           "answer": "おんな",
           "questions": ["はは", "おんな", "おとこ"]
+        }
+      ]
+    },
+       {
+      "id":10,
+      "name": "Question -10",
+      "cards": [
+        {
+          "name": "本",
+          "answer": "ほん",
+          "questions": ["き", "ほん", "いす"]
+        },
+        {
+          "name": "月",
+          "answer": "つき",
+          "questions": ["つき", "め", "ひ"]
+        },
+        {
+          "name": "日",
+          "answer": "にち",
+          "questions": ["にち", "ひゃく", "め"]
+        },
+        {
+          "name": "水",
+          "answer": "みず",
+          "questions": ["ひ", "ひと", "みず"]
+        },
+        {
+          "name": "金",
+          "answer": "きん",
+          "questions": ["き", "きん", "くに"]
+        }
+      ]
+    },
+     {
+      "id":11,
+      "name": "Question -11",
+      "cards": [
+        {
+          "name": "人",
+          "answer": "ひと",
+          "questions": ["はいる", "ひと", "おおきい"]
+        },
+        {
+          "name": "木",
+          "answer": "き",
+          "questions": ["き", "みず", "ほん"]
+        },
+        {
+          "name": "土",
+          "answer": "つち",
+          "questions": ["とお", "ふるい", "つち"]
+        },
+        {
+          "name": "空",
+          "answer": "そら",
+          "questions": ["にく", "おんな", "そら"]
+        },
+        {
+          "name": "駅",
+          "answer": "えき",
+          "questions": ["えき", "くるま", "くに"]
+        }
+      ]
+    },
+     {
+      "id":12,
+      "name": "Question -12",
+      "cards": [
+        {
+          "name": "店",
+          "answer": "みせ",
+          "questions": ["みせ", "つき", "きん"]
+        },
+        {
+          "name": "社",
+          "answer": "しゃ",
+          "questions": ["き", "つち", "しゃ"]
+        },
+        {
+          "name": "道",
+          "answer": "みち",
+          "questions": ["め", "みせ", "みち"]
+        },
+        {
+          "name": "休",
+          "answer": "やすみ",
+          "questions": ["やすみ", "き", "ほん"]
+        },
+        {
+          "name": "会",
+          "answer": "かい",
+          "questions": ["かい", "いま", "たかい"]
+        }
+      ]
+    },
+    {
+      "id":13,
+      "name": "Question -12",
+      "cards": [
+        {
+          "name": "今",
+          "answer": "いま",
+          "questions": ["きん", "いま", "かい"]
+        },
+        {
+          "name": "週",
+          "answer": "しゅう",
+          "questions": ["しゅう", "つち", "みち"]
+        },
+        {
+          "name": "時",
+          "answer": "とき",
+          "questions": ["にち", "とお", "とき"]
+        },
+        {
+          "name": "貝",
+          "answer": "かい",
+          "questions": ["かい", "みる", "かう"]
+        },
+        {
+          "name": "門",
+          "answer": "もん",
+          "questions": ["あいだ", "もん", "きく"]
+        }
+      ]
+    },
+     {
+      "id":14,
+      "name": "Question -14",
+      "cards": [
+        {
+          "name": "買",
+          "answer": "かう",
+          "questions": ["かう", "かい", "みる"]
+        },
+        {
+          "name": "間",
+          "answer": "あいだ",
+          "questions": ["きく", "もん", "あいだ"]
+        },
+        {
+          "name": "話",
+          "answer": "はなす",
+          "questions": ["いう", "よむ", "はなす"]
+        },
+        {
+          "name": "書",
+          "answer": "かく",
+          "questions": ["かい", "きく", "かく"]
+        },
+        {
+          "name": "語",
+          "answer": "ご",
+          "questions": ["はなす", "ご", "いう"]
         }
       ]
     }
