@@ -6,19 +6,19 @@
       "level": "N4",
       "cards": [
         {
-          "name": "行",
-          "answer": "いく",
-          "questions": ["くる", "いく", "かえる"]
+          "name": "好",
+          "answer": "すきな",
+          "questions": ["しんせつな", "すきな", "きらい"]
         },
         {
-          "name": "来",
-          "answer": "くる",
-          "questions": ["くる", "いく", "かえる"]
+          "name": "良",
+          "answer": "よい",
+          "questions": ["よい", "ふるい", "わるい"]
         },
         {
-          "name": "食",
-          "answer": "たべる",
-          "questions": ["ねむ", "よむ", "たべる"]
+          "name": "雪",
+          "answer": "ゆき",
+          "questions": ["ゆき", "あめ", "でん"]
         },
         {
           "name": "帰",
