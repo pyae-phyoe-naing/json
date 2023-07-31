@@ -21,14 +21,14 @@
           "questions": ["ゆき", "あめ", "でん"]
         },
         {
-          "name": "帰",
-          "answer": "かえる",
-          "questions": ["いく", "かえる", "する"]
+          "name": "主",
+          "answer": "おもな",
+          "questions": ["たいせつな", "すむ", "おもな"]
         },
         {
-          "name": "飲",
-          "answer": "のむ",
-          "questions": ["のむ", "よむ", "たべる"]
+          "name": "色",
+          "answer": "いろ",
+          "questions": ["あじ", "いろ", "におい"]
         }
       ]
     },
@@ -38,29 +38,29 @@
        "level": "N4",
        "cards": [
          {
-           "name": "行",
-           "answer": "いく",
-           "questions": ["くる", "いく", "かえる"]
+           "name": "住",
+           "answer": "すむ",
+           "questions": ["おもな", "だいじな", "すむ"]
          },
          {
-           "name": "来",
-           "answer": "くる",
-           "questions": ["くる", "いく", "かえる"]
+           "name": "広",
+           "answer": "ひろい",
+           "questions": ["ひろい", "ほそい", "はやい"]
          },
          {
-           "name": "食",
-           "answer": "たべる",
-           "questions": ["ねむ", "よむ", "たべる"]
+           "name": "黒",
+           "answer": "くろい",
+           "questions": ["しろい", "はやい", "くろい"]
          },
          {
-           "name": "帰",
-           "answer": "かえる",
-           "questions": ["いく", "かえる", "する"]
+           "name": "海",
+           "answer": "うみ",
+           "questions": ["うみ", "みず", "かわ"]
          },
          {
-           "name": "飲",
-           "answer": "のむ",
-           "questions": ["のむ", "よむ", "たべる"]
+           "name": "体",
+           "answer": "からだ",
+           "questions": ["からだ", "やすみ", "ほん"]
          }
        ]
      }
