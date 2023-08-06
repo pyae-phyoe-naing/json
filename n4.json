@@ -70,29 +70,29 @@
        "level": "N4",
        "cards": [
          {
-           "name": "住",
-           "answer": "すむ",
-           "questions": ["おもな", "だいじな", "すむ"]
+           "name": "内",
+           "answer": "うち",
+           "questions": ["いえ", "うち", "にく"]
          },
          {
-           "name": "広",
-           "answer": "ひろい",
-           "questions": ["ひろい", "ほそい", "はやい"]
+           "name": "村",
+           "answer": "むら ",
+           "questions": ["むら", "やすみ", "からだ"]
          },
          {
-           "name": "黒",
-           "answer": "くろい",
-           "questions": ["しろい", "はやい", "くろい"]
+           "name": "音",
+           "answer": "おと",
+           "questions": ["おと", "こえ", "つき"]
          },
          {
-           "name": "海",
-           "answer": "うみ",
-           "questions": ["うみ", "みず", "かわ"]
+           "name": "楽",
+           "answer": "たのしい",
+           "questions": ["かなしい", "みうれしい", "たのしい"]
          },
          {
-           "name": "体",
-           "answer": "からだ",
-           "questions": ["からだ", "やすみ", "ほん"]
+           "name": "肉",
+           "answer": "にく",
+           "questions": ["にく", "くに", "うち"]
          }
        ]
      }
