@@ -159,6 +159,38 @@
            "questions": ["ひと", "もの", "おと"]
          }
        ]
+     },
+             {
+       "id": 6,
+       "name": "Question - 6",
+       "level": "N4",
+       "cards": [
+         {
+           "name": "洗",
+           "answer": "あらう",
+           "questions": ["うみ", "おこす", "あらう"]
+         },
+         {
+           "name": "運",
+           "answer": "はこぶ",
+           "questions": ["はこぶ", "おくる", "くるま"]
+         },
+         {
+           "name": "犬",
+           "answer": "いぬ",
+           "questions": ["いぬ", "おおきい", "ねこ"]
+         },
+         {
+           "name": "字",
+           "answer": "じ",
+           "questions": ["こども", "がっこう", "じ"]
+         },
+         {
+           "name": "暑",
+           "answer": "あつい",
+           "questions": ["つめたい", "あつい", "もの"]
+         }
+       ]
      }
   ]
 }
