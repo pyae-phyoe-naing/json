@@ -223,6 +223,102 @@
            "questions": ["みやこ", "まち", "みち"]
          }
        ]
+     },
+          {
+       "id": 8,
+       "name": "Question - 8",
+       "level": "N4",
+       "cards": [
+         {
+           "name": "太",
+           "answer": "ふとい",
+           "questions": ["いぬ", "ふとい", "おおきい"]
+         },
+         {
+           "name": "朝",
+           "answer": "あさ",
+           "questions": ["あさ", "おと", "くらい"]
+         },
+         {
+           "name": "夜",
+           "answer": "よる",
+           "questions": ["ひる", "とおい", "よる"]
+         },
+         {
+           "name": "止",
+           "answer": "とまる",
+           "questions": ["とまる", "うえ", "はしる"]
+         },
+         {
+           "name": "昼",
+           "answer": "ひる",
+           "questions": ["はる", "おもい", "ひる"]
+         }
+       ]
+     },
+      {
+       "id": 9,
+       "name": "Question - 9",
+       "level": "N4",
+       "cards": [
+         {
+           "name": "県",
+           "answer": "けん",
+           "questions": ["いん", "けん", "かい"]
+         },
+         {
+           "name": "町",
+           "answer": "まち",
+           "questions": ["まち", "みやこ", "た"]
+         },
+         {
+           "name": "軽",
+           "answer": "かるい",
+           "questions": ["あさ", "とおい", "かるい"]
+         },
+         {
+           "name": "信",
+           "answer": "しん",
+           "questions": ["しん", "いん", "りょう"]
+         },
+         {
+           "name": "歩",
+           "answer": "あるく",
+           "questions": ["はしる", "あるく", "とまる"]
+         }
+       ]
+     },
+          {
+       "id": 10,
+       "name": "Question - 10",
+       "level": "N4",
+       "cards": [
+         {
+           "name": "正",
+           "answer": "ただしい",
+           "questions": ["うえ", "とまる", "ただしい"]
+         },
+         {
+           "name": "低",
+           "answer": "ひくい",
+           "questions": ["ひくい", "ちかい", "たかい"]
+         },
+         {
+           "name": "春",
+           "answer": "はる",
+           "questions": ["あつい", "はる", "ひる"]
+         },
+         {
+           "name": "歌",
+           "answer": "うた",
+           "questions": ["こえ", "とり", "うた"]
+         },
+         {
+           "name": "不",
+           "answer": "ふ",
+           "questions": ["ふ", "した", "ふとい"]
+         }
+       ]
      }
   ]
 }
