@@ -95,6 +95,38 @@
            "questions": ["にく", "くに", "うち"]
          }
        ]
+     },
+     {
+       "id": 4,
+       "name": "Question - 4",
+       "level": "N4",
+       "cards": [
+         {
+           "name": "暗",
+           "answer": "くらい",
+           "questions": ["あかるい", "おと", "くらい"]
+         },
+         {
+           "name": "員",
+           "answer": "いん",
+           "questions": ["いん", "かう", "かい"]
+         },
+         {
+           "name": "走",
+           "answer": "はしる",
+           "questions": ["おく", "あるく", "はしる"]
+         },
+         {
+           "name": "起",
+           "answer": "おこす",
+           "questions": ["たつ", "おこす", "わらう"]
+         },
+         {
+           "name": "明",
+           "answer": "あかるい",
+           "questions": ["あかるい", "たのしい", "つき"]
+         }
+       ]
      }
   ]
 }
